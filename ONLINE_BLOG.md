@@ -553,6 +553,8 @@ Total Loss      Boundary Loss    Initial Loss    PDE Loss ⭐
 
 > "에포크가 진행될수록, AI가 물리 법칙을 더 잘 만족합니다!"
 
+<img width="3781" height="1846" alt="image" src="https://github.com/user-attachments/assets/c3de589d-3533-4a73-8ccb-ad17d8d7e060" />
+
 ---
 
 ## 실무 적용 사례
