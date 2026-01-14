@@ -315,6 +315,9 @@ PINN:     130개 온도 데이터만 필요
 
 **이것이 PINN의 힘입니다!**
 
+<img width="3781" height="1846" alt="image" src="https://github.com/user-attachments/assets/c25a939e-2d2f-4f52-af7e-68c62c20d878" />
+
+
 ---
 
 ## 왜 PINN이 일반화에 강한가?
