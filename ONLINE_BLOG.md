@@ -984,7 +984,7 @@ streamlit run app.py
  
 
 ### 우리 데모
-- GitHub: [repository]
+- GitHub: git clone https://github.com/piolla/pinn_demo
 - 문서: 6개 (27,000 단어)
 - 100% 오픈소스
 - 누구나 사용 가능
