@@ -18,6 +18,8 @@
 
 바로 이 지점에서, **PINN(Physics-Informed Neural Networks)**이라는 혁신적인 접근법이 등장합니다.
 
+<img width="3808" height="1844" alt="image" src="https://github.com/user-attachments/assets/4dff86eb-11d9-42e7-ad7a-5da96f255a5b" />
+
 ---
 
 ## 막간: 100mm 쇠 막대 이야기
