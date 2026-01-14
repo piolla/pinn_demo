@@ -357,7 +357,7 @@ PINN:     130개 온도 데이터만 필요
 ### 준비물
 ```bash
 # 1. 클론
-git clone [repository]
+git clone https://github.com/piolla/pinn_demo
 cd Base_PINN
 
 # 2. 설치
