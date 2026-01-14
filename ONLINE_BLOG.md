@@ -491,7 +491,7 @@ PDE Loss를 줄인다는 것은, AI가 내놓는 모든 예측값이 이 미분 
 
 ```bash
 # 1. 프로젝트 클론
-git clone [repository]
+git clone https://github.com/piolla/pinn_demo
 cd Base_PINN
 
 # 2. 패키지 설치
