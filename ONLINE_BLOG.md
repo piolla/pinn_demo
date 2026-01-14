@@ -977,7 +977,7 @@ streamlit run app.py
 
 ### 논문
 - Raissi et al. (2019) "Physics-informed neural networks"
-- 2만+ 인용의 고전
+ 
 
 ### 우리 데모
 - GitHub: [repository]
@@ -996,7 +996,7 @@ streamlit run app.py
 ---
 
 _작성일: 2025년 1월_
-_저자: PINN 전도사_
+_저자: 박종영(데이터링크(주)
 _라이센스: MIT (자유롭게 사용/수정/배포)_
 
 ---
